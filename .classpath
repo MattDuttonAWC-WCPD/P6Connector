@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="P6 Retriever/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/geronimo-annotation_1.0_spec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/geronimo-jaxws_2.1_spec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/geronimo-stax-api_1.0_spec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/geronimo-ws-metadata_2.0_spec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/neethi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/org.jaxen_1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/osdt_cert.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/osdt_core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/osdt_saml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/osdt_saml2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/osdt_wss.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/osdt_xmlsec.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/p6ws-jaxws-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/wss4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/wstx-asl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/xml-resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/XmlSchema.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dutto/P6 Workspace/P6 Connector- Demo Application/libs/JAX-WS/lib/xmlsec.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-13.0.2">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/dutto/Downloads/opencsv-5.2.jar"/>
+	<classpathentry kind="output" path="P6 Retriever/bin"/>
+</classpath>
