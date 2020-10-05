@@ -45,9 +45,9 @@ import com.primavera.ws.p6.user.User;
 import com.primavera.ws.p6.user.UserFieldType;
 import com.primavera.ws.p6.user.UserPortType;
 import com.primavera.ws.p6.user.UserService;
-import com.primavera.wsclient.demo.LoggingHandler;
 
 import security.SecurityHandler;
+import write.LoggingHandler;
 
 /**
  * Class to contact P6 and request copies of the ResourceAssignmentPeriodActuals and Timesheet tables.
